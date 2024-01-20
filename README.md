@@ -1,4 +1,4 @@
-# sin_cos_solving_circuit
+# Analog Computation of Sine and Cosine
 A spice simulation of an analog computing circuit that solves sin and cosine from derivative of angle.
 
 Repository for the article Analog Computation of Sine and Cosine
